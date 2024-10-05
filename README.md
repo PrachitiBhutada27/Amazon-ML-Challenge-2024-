@@ -28,6 +28,7 @@ entity_name: Product entity name. For eg: “item_weight”
 
 entity_value: Product entity value. For eg: “34 gram” Note: For test.csv, you will not see the column entity_value as it is the target variable.
 
+
 **Results:**
 
 Our model achieved the following results:
@@ -35,3 +36,12 @@ Our model achieved the following results:
 F1 Score: 0.5079737062482348
 
 Rank: 132 out of 2500+ registered teams
+
+https://unstop.com/hackathons/amazon-ml-challenge-amazon-1100713/coding-challenge/200089?d=eyJwYWdlIjoxLCJ0ZWFtSWQiOjIyNDk3NTE1LCJhc3NvY2lhdGlvbklkIjo4NDEzMzl9
+
+
+**Contributors:**
+
+1. Arnav Arya
+2. Kartik Sood
+
