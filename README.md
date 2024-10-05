@@ -27,4 +27,5 @@ Results
 Our model achieved the following results:
 
 F1 Score: 0.5079737062482348
+
 Rank: 132 out of 2500+ registered teams
